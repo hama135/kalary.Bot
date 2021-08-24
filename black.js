@@ -30,7 +30,7 @@ const imdb = require("imdb-api");
 const cooldown = new Set();
 const cdtime = 5;
 const prefix = "*"
-client.login("ODc5NTM1MDUwMDAwMDYwNDE3.YSRI2A._OETJ1JKek7WuRRHR_S-fXyt4F4")
+client.login("ODc5NTM1MDUwMDAwMDYwNDE3.YSRI2A.DZOXdPi3hbv_Cjg-8H9IFTx_Nbw")
 client.on("ready", () => {
   console.log("ALLAH AKBAR");
   console.log("♔♔♔♔♔♔♔♔♔♔♔♔♔♔♔♔♔♔♔");
